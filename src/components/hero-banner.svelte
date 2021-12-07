@@ -19,6 +19,6 @@
   </p>
 
   <button on:click={openCodeSample} class="button button--secondary">
-    Check Out the Auth0 Svelte Code Sample →
+    Check out the code sample →
   </button>
 </div>
